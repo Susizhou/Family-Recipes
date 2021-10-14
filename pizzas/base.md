@@ -1,2 +1,6 @@
 # base
 
+## Ingredients 
+
+- Flour
+- Water
