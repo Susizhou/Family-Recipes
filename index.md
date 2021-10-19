@@ -1,4 +1,4 @@
-# Family secret recipes 
+# Anushka and Susanas recipes 
 
 Set of recipes given by my grandma 
 
