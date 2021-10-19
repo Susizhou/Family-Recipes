@@ -7,4 +7,4 @@
 - 2 cups of water 
 
 ## Steps 
-- mix everything and wait 
+- mix everything and wait for 15 minutes
