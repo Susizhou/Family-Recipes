@@ -3,5 +3,8 @@
 ## ingredients 
 - Base 
 - Tomatoes 
-- hello im trying to show how git works 
+- Cheese 
+
+## Steps 
+- put the tomato and the cheese over the base 
 
